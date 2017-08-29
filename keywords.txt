@@ -1,0 +1,4 @@
+MT_BlinkStatusLED	KEYWORD1	
+Blink1	KEYWORD2	
+Blink2	KEYWORD2	
+Blink3	KEYWORD2
