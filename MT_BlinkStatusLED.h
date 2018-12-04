@@ -10,7 +10,7 @@
 
 #include "Arduino.h"
 
-/*----------------------------main header declerations----------------------------*/
+/*----------------------------main header declarations----------------------------*/
 
 class MT_BlinkStatusLED
 {
